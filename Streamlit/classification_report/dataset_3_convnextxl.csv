@@ -1,0 +1,14 @@
+Classes,Precision,Recall ,F1-Score,Support
+Fresh Apple Mix,1,1,1,30
+Fresh Banana Mix,1,1,1,30
+Fresh Grape Mix,0.97,1,0.98,30
+Fresh Guava Mix,1,1,1,30
+Fresh Orange Mix,0.91,1,0.95,30
+Rotten Apple Mix,1,1,1,30
+Rotten Banana Mix,1,1,1,30
+Rotten Grape Mix,1,0.97,0.98,30
+Rotten Guava Mix,1,1,1,30
+Rotten Orange Mix,1,0.9,0.95,30
+Accuracy,0,0,0.99,300
+Macro avg,0.99,0.99,0.99,300
+Weighted avg,0.99,0.99,0.99,300

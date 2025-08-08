@@ -1,0 +1,16 @@
+Classes,Precision,Recall,F1-Score ,Support
+Fresh Apple,1.00,1.00,1.00,10
+Fresh Banana,1.00,1.00,1.00,10
+Fresh Grape,0.91,1.00,0.95,10
+Fresh Guava,1.00,1.00,1.00,10
+Fresh Mango,1.00,1.00,1.00,10
+Fresh Orange,1.00,1.00,1.00,10
+Rotten Apple,1.00,1.00,1.00,10
+Rotten Banana,1.00,1.00,1.00,10
+Rotten Grape,1.00,0.70,0.82,10
+Rotten Guava,0.83,1.00,0.91,10
+Rotten Mango,1.00,1.00,1.00,10
+Rotten Orange,1.00,1.00,1.00,10
+Accuracy,0,0,0.97,120
+Macro avg,0.98,0.97,0.97,120
+Weighted avg,0.98,0.97,0.97,120
